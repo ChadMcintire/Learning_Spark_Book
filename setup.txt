@@ -1,0 +1,6 @@
+export PYTHONPATH=$SPARK_HOME/python/:$PYTHONPATH
+export PYTHONPATH=/opt/spark/python/lib/py4j-0.10.9-src.zip:$PYTHONPATH
+
+
+notes:
+https://stackoverflow.com/questions/26533169/why-cant-pyspark-find-py4j-java-gateway
