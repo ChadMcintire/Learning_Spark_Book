@@ -38,7 +38,8 @@ if __name__ == "__main__":
         StructField('RowID', StringType(), True),                
         StructField('Delay', FloatType(), True)])
 
-    sf_fire_file = "../../data/fire-department-calls-for-service.csv"
+    sf_fire_file = "../../data/fire-department_updated.csv"
+    #sf_fire_file = "../../data/fire-department-calls-for-service.csv"
     #sf_fire_file = "../../data/sf-fire-calls.csv"
     fire_df = spark.read.csv(sf_fire_file, header=True, schema=fire_schema)
     few_fire_df = (fire_df  
