@@ -1,0 +1,45 @@
+Call Number 1
+Unit ID 2
+Incident Number 3
+Call Type 4
+Call Date 5
+Watch Date 6
+Received DtTm -
+Entry DtTm -
+Dispatch DtTm - time dispatched
+Response DtTm -
+On Scene DtTm - time arrived
+Transport DtTm - 
+Hospital DtTm - 
+Call Final Disposition 7
+Available DtTm 8
+Address 9
+City 10
+Zipcode of Incident 11
+Battalion 12
+Station Area 13
+Box 14
+Original Priority 14
+Priority 15
+Final Priority 16
+ALS unit 17
+Call Type Group 18
+Number of Alarms 19 The name of the schema need to be changed
+Unit Type 20
+Unit sequence in call dispatch     21 In needs to be upper case
+Fire Prevention District 22
+Supervisor District 23
+Neighborhoods - Analysis Boundaries      24 remove after the -
+Location 25
+RowID 26
+Supervisor Districts -
+Fire Prevention Districts -
+Current Police Districts -
+Neighborhoods - Analysis Boundaries -
+Zip Codes -
+Neighborhoods (old) -
+Police Districts -
+Civic Center Harm Reduction Project Boundary -
+HSOC Zones -
+Central Market/Tenderloin Boundary Polygon - Updated -
+
